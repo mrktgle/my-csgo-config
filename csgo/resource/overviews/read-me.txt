@@ -1,0 +1,1 @@
+After copying de_cache_radar, remove your de_cache_radar_spectate.dds in the overviews folder for the radar to work.
