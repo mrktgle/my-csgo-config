@@ -1,1 +1,1 @@
--novid -tickrate 128 -refresh 60 -freq 60 -nojoy -threads 4 -nod3d9ex1 +cl_forcepreload 1 -lv -language bananagaming
+-novid -freq 60 -nojoy -language bananagaming -threads 4 -lv +cl_forcepreload 1 -nod3d9ex -noaafonts -nosync
